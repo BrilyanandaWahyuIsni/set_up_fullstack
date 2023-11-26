@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "gostart": "concurrently \"npm:server\" \"npm:dev\"",
-    "dev": "cd webApp && next dev",
+    "dev": "cd website && next dev",
     "server": "cd server && nodemon index.ts",
     "build": "next build",
     "start": "next start",
