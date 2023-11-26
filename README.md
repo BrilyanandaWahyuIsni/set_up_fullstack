@@ -1,5 +1,9 @@
 
+<center>
+
 # Setup Full Stack Website
+
+</center>
 Pakage ini adalah sebuah paket untuk pengembangan full stack dengan menggunakan sejumlah teknologi canggih. Paket ini memanfaatkan `TypeScript` sebagai bahasa pemrograman inti, memberikan keamanan tipe dan peningkatan kemudahan pemeliharaan kode. Dalam sisi frontend, Anda menggunakan `Next.js` sebagai kerangka kerja React yang memungkinkan pengembangan web yang responsif dan cepat dengan memanfaatkan rendering sisi server. Untuk pengaturan tata letak dan desain, paket ini mengintegrasikan `Tailwind CSS`, sebuah alat utilitas CSS yang memungkinkan styling yang efisien dan mudah dikonfigurasi.
 
 Sementara itu, di sisi server, paket ini menggunakan `Express` sebagai kerangka kerja back-end yang ringan dan fleksibel untuk membangun API dan menangani logika server. Untuk interaksi dengan database, Anda telah memilih `Prisma`, sebuah ORM (Object-Relational Mapping) yang mempermudah akses dan manipulasi data dalam database relasional.
